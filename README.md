@@ -1,156 +1,225 @@
 
-<!-- ===== BANNER ===== -->
+<!-- ═══════════════ HERO BANNER ═══════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,50:512da8,100:bc4fe8&height=220&section=header&text=H%C3%A0%20B%E1%BA%A3o%20Tr%C3%A2n&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20in%20Progress%20%F0%9F%92%BB&descSize=18&descAlignY=55" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050014,35:26005C,70:7B2FFF,100:FF4FD8&text=H%C3%80%20B%E1%BA%A2O%20TR%C3%82N&fontSize=55&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=BC8CFF&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=B983FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Aspiring+Web+Developer+%F0%9F%92%BB;Building+projects+with+C%23+and+.NET;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=D8B4FE&center=true&vCenter=true&width=750&lines=SOFTWARE+DEVELOPER+IN+PROGRESS;ASP.NET+CORE+%7C+C%23+%7C+ANGULAR;TURNING+IDEAS+INTO+REALITY;CODE.+CREATE.+INNOVATE.+REPEAT." />
 
 <br/>
 
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20LEARNING-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=EC4899&label=PROFILE+VISITORS" />
+
+<br/><br/>
+
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" />
 </a>
-<img src="https://img.shields.io/badge/Focus-Web%20Development-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Learning-00C896?style=for-the-badge" />
 
 </div>
 
 ---
 
-<!-- ===== ABOUT ME ===== -->
+<!-- ═══════════════ ABOUT ═══════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<div align="center">
 
-```yaml
-name: Hà Bảo Trân
-role: IT Student | Aspiring Software Developer
-interests:
-  - Web Development
-  - Software Engineering
-  - AI-powered Applications
-currently_learning:
-  - ASP.NET Core MVC
-  - C#
-  - Angular
-  - SQL Server
-goal: Build useful applications and become a professional developer
+## ✦ WHO AM I? ✦
+
+### `Aspiring Software Developer`
+
+*Building the future, one line of code at a time.*
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👾 About Me
+
+- 🎓 Information Technology Student
+- 💻 Passionate about Web Development
+- ⚡ Building practical software projects
+- 🧠 Exploring AI-powered applications
+- 🎯 Growing toward a professional developer career
+
+### 🌌 Current Mission
+
+```text
+[████████░░] Learning & Building
 ```
 
-- 🔭 Working on web application projects.
-- 🌱 Improving my backend and frontend development skills.
-- 💡 Interested in combining AI agents with real-world applications.
-- 🎯 Building projects for my developer portfolio.
-- ⚡ Believe in learning by building.
+- Mastering C# and ASP.NET Core MVC
+- Developing full-stack web applications
+- Improving database design and architecture
+- Exploring AI agents for real-world products
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img width="100%" src="https://skillicons.dev/icons?i=cs,dotnet,angular,html,css,js,ts,mysql,git,github,vscode&perline=4&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20WEB-7C3AED?style=flat-square" />
+
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-DB2777?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ===== TECH STACK ===== -->
-
-## <img src="https://img.shields.io/badge/Tech-Stack-8A2BE2?style=flat-square" /> Tech Stack
-
-### 💜 Backend & Programming
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,java" />
-</p>
-
-### 💙 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" />
-</p>
-
-### 💚 Database & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio" />
-</p>
-
----
-
-<!-- ===== GITHUB STATS ===== -->
-
-## <img src="https://img.shields.io/badge/GitHub-Analytics-8A2BE2?style=flat-square" /> GitHub Dashboard
+<!-- ═══════════════ TECH ARSENAL ═══════════════ -->
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BC8CFF&icon_color=BC8CFF&text_color=FFFFFF&rank_icon=github" />
+## ⚔️ TECH ARSENAL
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=BC8CFF&text_color=FFFFFF" />
+*Tools I use to turn ideas into applications.*
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-7027C9?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 <br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&ring=BC8CFF&fire=FF79C6&currStreakLabel=BC8CFF" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- ===== TROPHIES ===== -->
-
-## 🏆 GitHub Trophies
+<!-- ═══════════════ PROJECTS ═══════════════ -->
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" />
+## 🚀 FEATURED PROJECTS
+
+*Selected work from my development journey.*
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- ===== ACTIVITY GRAPH ===== -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=BC8CFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-<!-- ===== PROJECTS ===== -->
-
-## 🚀 Featured Projects
-
-<div align="center">
+### 🍜 Food Ordering
 
 <a href="https://github.com/YOUR_USERNAME/Ban-do-an">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Ban-do-an&hide_border=true&bg_color=0D1117&title_color=BC8CFF&text_color=FFFFFF" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Ban-do-an&theme=tokyonight&hide_border=true" />
 </a>
+
+**Focus:** Web application development
+
+**Stack:** C# / .NET (update to match the actual project)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Student Management
 
 <a href="https://github.com/YOUR_USERNAME/Quan-ly-sinh-vien">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Quan-ly-sinh-vien&hide_border=true&bg_color=0D1117&title_color=BC8CFF&text_color=FFFFFF" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Quan-ly-sinh-vien&theme=tokyonight&hide_border=true" />
 </a>
 
+**Focus:** Student information management
+
+**Stack:** PHP (update to match the actual project)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🏥 Health Booking MVC
+
 <a href="https://github.com/congthinh-code/Health-Booking-MVC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=congthinh-code&repo=Health-Booking-MVC&hide_border=true&bg_color=0D1117&title_color=BC8CFF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=congthinh-code&repo=Health-Booking-MVC&theme=tokyonight&hide_border=true" />
 </a>
+
+Healthcare appointment booking project.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════ GITHUB DASHBOARD ═══════════════ -->
+
+<div align="center">
+
+## 📊 DEVELOPER DASHBOARD
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=C084FC&icon_color=F472B6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=C084FC" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C084FC" />
 
 </div>
 
 ---
 
-<!-- ===== CONTACT ===== -->
-
-## 🤝 Connect With Me
+<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
 
 <div align="center">
 
+## 🌠 MY CONTRIBUTION UNIVERSE
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C084FC&line=9333EA&point=F472B6&area_color=581C87&area=true&hide_border=true&custom_title=My%20Coding%20Journey" />
+
+</div>
+
+---
+
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+
+<div align="center">
+
+## 👑 ACHIEVEMENTS
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" />
+
+</div>
+
+---
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+
+<div align="center">
+
+## 💌 LET'S CONNECT
+
+*Have an idea? Let's build something amazing.*
+
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 💜 Thanks for visiting my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FD8,40:7B2FFF,100:050014&height=160&section=footer&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc4fe8,50:512da8,100:09001f&height=120&section=footer" width="100%" />
+### ✨ `Dream big. Build boldly. Keep shipping.`
 
 </div>
